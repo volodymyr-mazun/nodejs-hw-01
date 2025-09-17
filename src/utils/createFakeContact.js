@@ -1,3 +1,6 @@
+
+//----------СТВОРЕННЯ КОНТАКТУ З ВИПАДКОВИМИ ДАНИМИ---------
+
 import { faker } from "@faker-js/faker";
 
 export const createFakeContact = () => ({
