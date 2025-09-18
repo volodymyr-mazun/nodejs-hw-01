@@ -1,5 +1,5 @@
 
-//----------ЗАПИСУВАННЯ ДАНИХ--------
+//----------ЗАПИСУВАННЯ ДАНИХ У ФАЙЛ--------
 
 import { PATH_DB } from '../constants/contacts.js';
 import * as fs from 'node:fs/promises';
